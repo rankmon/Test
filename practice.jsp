@@ -4,6 +4,7 @@
 <title>파라미터 익히기</title>
 </head>
 <body>
+<h1>김세종이 고친 test.jsp ㅋㅋ<h1>
 <h2>당신의 평점</h2>
 <% 
    String scoreStr = request.getParameter("score");
