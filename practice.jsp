@@ -50,10 +50,15 @@ RawBlameHistory     44 lines (39 sloc)  954 Bytes
 	 	  <h3>github 어려워요!!123123123!!</h3>
 	 	  <h3>github 어려워요!!123123123adsffds!!</h3>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		  <h3>github 어려워요!!12332231123adsffds!!</h3>
 =======
 	 	  <h3>브랜치 테스트중</h3>
 >>>>>>> 9099b7e8df6d67b8420cbb4f88dd5c4f10420ebb
+=======
+	 	  <h3>브랜치 테스트중</h3>
+	 	  <h3>연습연습 테스트</h3>
+>>>>>>> 22ced8bddd960abc10d1738f8fe9db052226185c
 
 
 <% 
