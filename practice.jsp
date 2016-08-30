@@ -27,6 +27,7 @@
 	 <h2>git연습.</h2>
 	 <h2>github 연습중입니다</h2>
 	 <h3>branch 셋팅</h3>
+	 	 <h3>branch 셋팅</h3>
 <% 
    }
 %>
