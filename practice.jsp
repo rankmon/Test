@@ -28,10 +28,11 @@
 	 <h2>github 연습중입니다</h2>
 	 <h3>branch 셋팅</h3>
 	 	 <h3>branch 셋팅</h3>
-	 	  <h3>github 어려워</h3>
-	 	  <h3>github 어려워222</h3>
-	 	  <h3>github 어려워22233</h3>
-	 	  <h3>github 어려워22233112222</h3>
+	 	  <h3>github 어려워요!!!!</h3>
+	 	  <h3>github 어려워요!!!!</h3>
+	 	  
+	 	  <h3>github 어려워요!!123123123!!</h3>
+	 	  <h3>github 어려워요!!123123123adsffds!!</h3>
 
 
 <% 
