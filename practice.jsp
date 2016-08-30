@@ -1,3 +1,19 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @rankmon
+ Watch 0
+  Star 0
+  Fork 0 rankmon/Test
+ Code  Issues 0  Pull requests 0  Wiki  Pulse  Graphs  Settings
+Branch: master Find file Copy pathTest/practice.jsp
+d2a606a  12 minutes ago
+@skch0122 skch0122 skchaaaa
+5 contributors @skch0122 @namtaehun @KIMHyungYoon @pinkminjung @sejong84
+RawBlameHistory     44 lines (39 sloc)  954 Bytes
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <html><head>
@@ -33,6 +49,8 @@
 	 	  
 	 	  <h3>github 어려워요!!123123123!!</h3>
 	 	  <h3>github 어려워요!!123123123adsffds!!</h3>
+	 	  <h3>브랜치 테스트중</h3>
+	 	  <h3>연습연습 테스트</h3>
 
 
 <% 
@@ -41,3 +59,5 @@
 
 </body>
 </html>
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
