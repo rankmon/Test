@@ -1,4 +1,4 @@
-Skip to content
+﻿Skip to content
 This repository
 Search
 Pull requests
@@ -49,18 +49,11 @@ RawBlameHistory     44 lines (39 sloc)  954 Bytes
 	 	  
 	 	  <h3>github 어려워요!!123123123!!</h3>
 	 	  <h3>github 어려워요!!123123123adsffds!!</h3>
-<<<<<<< HEAD
-<<<<<<< HEAD
 	 	  <h3>브랜치 테스트중</h3>
 	 	  <h3>연습연습 테스트</h3>
-=======
 		  <h3>브랜치 테스트 중!</h3>
->>>>>>> af42b0833021def1d679743a990ad7367852691a
-=======
 		  <h3>github 어려워요!!12332231123adsffds!!</h3>
-=======
 	 	  <h3>브랜치 테스트중</h3>
->>>>>>> 9099b7e8df6d67b8420cbb4f88dd5c4f10420ebb
 
 
 <% 
